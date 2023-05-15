@@ -9,7 +9,7 @@ Finally, we shall design a "Jackpot Game" with the following conditions:
 2. When the switch corresponding to that switch's LED is turned on, all the lights should turn on. (and that this condition is called as Jackpot)
 3. A reset can be performed by pressing one of the push buttons.
 
-This repo gives a description of the Verilog Code, XDC file, and appropriate Testbenches. 
+This repo gives a description of the Verilog Code and XDC file. You can also test these functionalities by wiriting appropriate testbenches. 
 
 Note: All of the FPGA pins that are routed to physical pins on your board are listed in the master XDC file for your board.
 
