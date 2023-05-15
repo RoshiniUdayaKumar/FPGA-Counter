@@ -20,3 +20,4 @@ counter<=0;
 out_clk<=(counter<divisor/2)?1'b1:1'b0;
 end    
 endmodule
+
